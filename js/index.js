@@ -1,5 +1,5 @@
 $("#cv-btn").click(function() {
-    window.open("file:///C:/Users/missm/OneDrive/Desktop/Career/Resume%20Marissa%20Redline.pdf");
+    window.open("https://drive.google.com/file/d/1Nh94wEI6_kecG5ah96zW-ehq2T6EhDTm/view?usp=sharing");
 });
 
 
